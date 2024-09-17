@@ -3,7 +3,7 @@ using namespace std;
 int main() {
     long int x;
     cin>>x;
-    if (x<2147483647 && x>-2147483647) {
+    if (x=<2147483647 && x=>-2147483647) {
         cout<<"Yes";
     }
     else {
